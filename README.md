@@ -1,3 +1,9 @@
+<p align="center">
+ <img width="350" src="./icons/pg-logog-4.png" alt="p-terminal"/>
+</p>
+
+<br>
+
 <div align="center">
 
 # _**Peharge Games (SOON)**_
